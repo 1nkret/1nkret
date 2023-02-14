@@ -1,15 +1,7 @@
 # Welcome! 
 
 ### 1nkret - Ukrainian developer
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Completed+courses+in+Odessa)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Polytechnic+University+(C%2B%2B).+)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Started+programming+at+an+early)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=age+and+know+sourcepawn.)](https://git.io/typing-svg)
-
+Completed courses in Odessa Polytechnic University (C++). Started programming at an early age and know sourcepawn.
 
 # Streak Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
