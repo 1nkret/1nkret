@@ -1,7 +1,6 @@
 # Welcome! 
 
-### 1nkret - Ukrainian developer
-Completed courses in Odessa Polytechnic University (C++). Started programming at an early age and know sourcepawn.
+### 1nkret - Ukrainian Python Developer
 
 # Streak Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
