@@ -1,6 +1,6 @@
 # Welcome! 
 
-### 1nkret - Junior Python Developer
+### 1nkret - Middle Python Developer
 
 # Streak Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1nkret)](https://git.io/streak-stats)
